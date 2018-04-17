@@ -1,5 +1,5 @@
 require 'discordrb'
-bot = Discordrb::Commands::CommandBot.new token: 'Mjg5NDc1NDExNjUyNjQwNzY4.Dbc3rQ.Jc_SZeGhyczgdjdJWJO--rb8QPY', client_id: '289475411652640768', prefix: '!'
+bot = Discordrb::Commands::CommandBot.new token: 'token', client_id: 'id', prefix: '!'
 ## Freedom commands
 
 	# Horsepower
